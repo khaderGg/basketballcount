@@ -1,9 +1,5 @@
-class StateTeamA {
+class StateTeamA extends Stateteam {}
 
-}
-class StateTeamB {
+class StateTeamB extends Stateteam {}
 
-}
-abstract class Stateteam{
-
-}
+abstract class Stateteam {}
